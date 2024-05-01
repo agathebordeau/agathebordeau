@@ -5,7 +5,7 @@ I'm a graphic designer and a creative coder.
 
 
 Currently looking for a job as a graphic designer in an agency or in a company.   
-Check out my [portfolio]((https://readymag.website/u3730461019/agathebordeau/)) !
+Check out my [portfolio](https://readymag.website/u3730461019/agathebordeau/) !
 
 <!--
 **agathebordeau/agathebordeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
